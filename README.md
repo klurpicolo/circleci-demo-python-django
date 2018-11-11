@@ -37,3 +37,5 @@ Documentation (guides, references, and associated images) is licensed as Creativ
 
 Everything in this repository not covered above is licensed under the [included CC0 license](LICENSE).
 
+Add Klur readme for testing
+
